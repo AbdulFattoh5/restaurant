@@ -1,0 +1,16 @@
+@font-face{
+    font-family:'CR' ;
+    src: url(../fonts/CormorantUpright-Regular.ttf) format('truetype');
+}
+@font-face{
+    font-family:'CB' ;
+    src: url(../fonts/CormorantUpright-Bold.ttf) format('truetype');
+}
+@font-face{
+    font-family:'CS' ;
+    src: url(../fonts/CormorantUpright-SemiBold.ttf) format('truetype');
+}
+@font-face{
+    font-family:'OS' ;
+    src: url(../fonts/OpenSans-Regular.ttf) format('truetype');
+}
